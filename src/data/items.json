@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "name":"Book",
+        "price":10.99,
+        "imgUrl":"/imgs/book.jpg"
+    },{
+        "id":2,
+        "name":"Laptop",
+        "price":999.99,
+        "imgUrl":"/imgs/laptop.jpg"
+    },{
+        "id":3,
+        "name":"Car",
+        "price":1.99,
+        "imgUrl":"/imgs/car.jpg"
+    },{
+        "id":4,
+        "name":"PC",
+        "price":10.99,
+        "imgUrl":"/imgs/pc.jpg"
+    }
+
+]
